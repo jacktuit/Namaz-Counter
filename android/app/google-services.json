@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "517116732166",
+    "project_id": "qazo-nomozlari",
+    "storage_bucket": "qazo-nomozlari.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:517116732166:android:17341e0a77fe297b3cf487",
+        "android_client_info": {
+          "package_name": "uiscreen.uiscreen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "517116732166-ldvgr2uk8jm8inlelmsfs3vq73upmmf1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqVYmtFBl7Ci5arnA8O8hBFljaKAqEh-w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "517116732166-ldvgr2uk8jm8inlelmsfs3vq73upmmf1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
